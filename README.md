@@ -1,2 +1,2 @@
 # my_site
- my first web site
+ my first django web site
